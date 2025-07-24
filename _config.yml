@@ -1,1 +1,21 @@
-theme: minima
+### minima theme
+# theme: minima
+
+### following remote themes require this
+plugins:
+- jekyll-remote-theme
+
+### tactile theme
+# https://github.com/pages-themes/tactile?tab=readme-ov-file
+# remote_theme: pages-themes/tactile@v0.2.0
+
+### architect theme
+# https://github.com/pages-themes/architect?tab=readme-ov-file
+remote_theme: pages-themes/architect@v0.2.0
+
+### hacker theme
+# https://github.com/pages-themes/hacker?tab=readme-ov-file
+# remote_theme: pages-themes/hacker@v0.2.0
+
+title: My Random TiNKeR.ING
+description: A chronicle of the randomness that passes through my brain
